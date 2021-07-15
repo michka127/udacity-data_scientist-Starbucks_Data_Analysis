@@ -2,8 +2,8 @@
 (Part of Udacity's Data Scientist Nanodegree using data from Starbucks) 
 In this project, data from Starbucks is analysed to build a machine learning modul to predict the success rate of offers for customers.
 
-Those questions are answered in a blog post, which can be found here:
-https://mijka127.medium.com/starbucks-data-analysis-359c67f71723
+The approach is described in a blog post, which can be found here:
+https://mijka127.medium.com/starbucks-data-analysis-v2-d604195fe23b
 
 ## Dependencies
 The project is using Jupyther Notebook from the Anaconda distribution for Python3.
