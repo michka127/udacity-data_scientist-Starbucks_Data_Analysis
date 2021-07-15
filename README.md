@@ -5,6 +5,8 @@ In this project, data from Starbucks is analysed to build a machine learning mod
 The approach is described in a blog post, which can be found here:
 https://mijka127.medium.com/starbucks-data-analysis-v2-d604195fe23b
 
+In the project in dive into the provided datasets, clean them and create a single data set which is then used to train different machine learning models. Those models are then evaluated, tuned and validated via k-fold cross validation. However, the end result does not meet my expectations, because the quality of they predictions stays on a poor level even after optimization.
+
 ## Dependencies
 The project is using Jupyther Notebook from the Anaconda distribution for Python3.
 Additionally, the following Python libraries will be used:
