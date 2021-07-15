@@ -3,7 +3,7 @@
 In this project, data from Starbucks is analysed to build a machine learning modul to predict the success rate of offers for customers.
 
 Those questions are answered in a blog post, which can be found here:
-https://medium.com/@mijka127/ <add prefix after publishing the article>
+https://mijka127.medium.com/starbucks-data-analysis-359c67f71723
 
 ## Dependencies
 The project is using Jupyther Notebook from the Anaconda distribution for Python3.
